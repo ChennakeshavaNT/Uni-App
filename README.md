@@ -54,7 +54,7 @@ This App does not allow any contributors.
 ## Creators:-
 ### Chennakeshava NT
 
-Certified Microsoft Technology Associate | Data Sceinec Enthusiast
+Certified Microsoft Technology Associate | Data Science Enthusiast
 
 Contact:- 
 - Mail:- [Chennakeshavant@gmail.com]
