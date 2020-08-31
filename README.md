@@ -1,5 +1,5 @@
 # UNI APP
-Uni App is Cross Platform Mobile Application developed using Cordova Technology. Its a Simple, Easy to use, End-user friendly Application. This App was created based on the idea that a **"Why have many Apps when a Single App can do all things"** that he/she has to perform in day to day life. Building this App not only helped us to learn many things, It also gave us a media through which we could showcase our knowledge.
+Uni App is Cross Platform Mobile Application developed using Cordova Technology. Its a Simple, Easy to use, End-user friendly Application. This App was created based on the idea that a **"Why have many Apps when a Single App can do all things"** that we perform in day to day life. Building this App not only helped us to learn many things, It also gave us a media through which we could showcase our knowledge.
 This Application uses DataBase with JavaScript to store user data. This is a Dynamic Application which we have decided to keep adding more features that we have been doing now and do the same in future.
 
 This Application is a Multi-App that contains 6 Sub Applications 
