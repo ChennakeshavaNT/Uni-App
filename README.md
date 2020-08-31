@@ -57,7 +57,7 @@ This App does not allow any contributors.
 Certified Microsoft Technology Associate | Data Sceinec Enthusiast
 
 Contact:- 
-- Mail [Chennakeshavant@gmail.com]
+- Mail:- [Chennakeshavant@gmail.com]
 - LinkedIn [Profile](https://www.linkedin.com/in/chennakeshavant/)
 
 ### Indrasena Kalyanam
@@ -65,7 +65,7 @@ Contact:-
 Certified Microsoft Technology Associate | Full Stack Developer
 
 Contact:- 
-- Mail [Kindrasena8@gmail.com]
+- Mail:- (Kindrasena8@gmail.com)
 - LinkedIn [Profile](https://www.linkedin.com/in/indrasena-kalyanam/)
 
 
